@@ -1,0 +1,7 @@
+D:\UMP\UMP.Interfaces\bin\Debug\UMP.Interfaces.dll
+D:\UMP\UMP.Interfaces\bin\Debug\UMP.Interfaces.pdb
+D:\UMP\UMP.Interfaces\bin\Debug\UMP.Business.Entities.dll
+D:\UMP\UMP.Interfaces\bin\Debug\UMP.Business.Entities.pdb
+D:\UMP\UMP.Interfaces\obj\Debug\UMP.Interfaces.csprojResolveAssemblyReference.cache
+D:\UMP\UMP.Interfaces\obj\Debug\UMP.Interfaces.dll
+D:\UMP\UMP.Interfaces\obj\Debug\UMP.Interfaces.pdb

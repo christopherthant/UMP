@@ -1,0 +1,4 @@
+D:\UMP\UMP.Business.Entities\bin\Debug\UMP.Business.Entities.dll
+D:\UMP\UMP.Business.Entities\bin\Debug\UMP.Business.Entities.pdb
+D:\UMP\UMP.Business.Entities\obj\Debug\UMP.Business.Entities.dll
+D:\UMP\UMP.Business.Entities\obj\Debug\UMP.Business.Entities.pdb
